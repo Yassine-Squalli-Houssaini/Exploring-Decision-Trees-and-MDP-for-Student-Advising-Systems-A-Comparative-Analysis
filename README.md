@@ -1,4 +1,5 @@
-![my-Exploring Decision Trees and Markov Decision Processes for Enhanced Student Advising Systems_ A Comparative Analysis](https://github.com/Yassine-Squalli-Houssaini/Exploring-Decision-Trees-and-MDP-for-Student-Advising-Systems-A-Comparative-Analysis/assets/127676452/c824856f-5751-4e80-87a0-6c35b82b937d)
+<img src="https://github.com/Yassine-Squalli-Houssaini/Exploring-Decision-Trees-and-MDP-for-Student-Advising-Systems-A-Comparative-Analysis/assets/127676452/c824856f-5751-4e80-87a0-6c35b82b937d" width="4000">
+
 
 # Table of Contents
 
@@ -17,6 +18,17 @@
 
 ## Abstract
 This research aims to compare the performance of decision tree-based and Markov Decision Process (MDP)-based student time management advising systems. The study includes the generation of a synthetic dataset to represent student profiles and the implementation of an MDP framework. The MDP framework incorporates knowledge representation and decision-making components, enabling the system to provide personalized time management recommendations. The findings contribute to understanding the advantages of MDPs in student advising systems and their impact on student satisfaction and academic achievement.
+
+This research will use both programming languages:
+
+<img src="https://github.com/Yassine-Squalli-Houssaini/Exploring-Decision-Trees-and-MDP-for-Student-Advising-Systems-A-Comparative-Analysis/assets/127676452/782f3e07-8c62-4190-8b12-0c2eb267ee89" width="200">
+<img src="https://github.com/Yassine-Squalli-Houssaini/Exploring-Decision-Trees-and-MDP-for-Student-Advising-Systems-A-Comparative-Analysis/assets/127676452/e9d8cd4c-46d0-4e2e-874b-ecc3c7fb2e43" width="200">
+
+
+
+
+
+
 
 ## Introduction
 Effective time management is crucial for students to optimize their academic performance and overall well- being. This research investigates the use of decision tree- based and MDP-based systems for student time management advising. The study compares their performance in terms of decision-making accuracy, adaptability, and customized recommendations. The research aims to enhance student satisfaction and improve academic achievement by providing personalized time management guidance.
